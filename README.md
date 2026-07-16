@@ -26,7 +26,15 @@ This project implements a Face Recognition System using Principal Component Anal
 7. Imposter Detection
 
 ## Results
-Best Accuracy Achieved: 57.78%
+
+| Metric | Value |
+|----------|----------|
+| Total Images | 450 |
+| Training Images | 270 |
+| Testing Images | 180 |
+| Best Accuracy | 57.78% |
+| PCA Components (k) | 100 |
+
 
 ## Technologies Used
 - Python
